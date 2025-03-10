@@ -14,6 +14,7 @@
     <h6>NIM :23110027</h6><br>
     <h6>Brilian</h6>
     <h6>tahun 2025</h6>
+    <h6>alamat</h6>
     <a href="index.php">kembali</a>
 </body>
 </html>
